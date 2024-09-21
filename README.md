@@ -1,2 +1,2 @@
 # photo_classification
-Celebrity recognition
+Small project made along the [codebasics](https://www.youtube.com/@codebasics) tutorial.
